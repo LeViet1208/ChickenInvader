@@ -19,3 +19,5 @@ Chicken Invader is a simple Unity shooting game where you fight waves of chicken
 - Clear all chickens to trigger boss spawn.
 - Defeat the boss to win.
 - Collect drumsticks for extra points.
+
+📁 Note: Windows `.exe` build is included in the `/ChickenInvader/` folder.
